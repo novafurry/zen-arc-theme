@@ -24,4 +24,4 @@ WIP Arc Theme For Zen. A lot of breaks :sweat:
 Use the issues tab ya nonce
 
 # Donations (why would you even)
-[<img width="545" alt="bmc-button" src="https://github.com/user-attachments/assets/310d8970-6891-42d3-9255-100b36a83fe7">](https://buymeacoffee.com/novafurry)
+[<img width="120" alt="bmc-button" src="https://github.com/user-attachments/assets/310d8970-6891-42d3-9255-100b36a83fe7">](https://buymeacoffee.com/novafurry)
