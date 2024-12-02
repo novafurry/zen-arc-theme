@@ -1,5 +1,7 @@
 # zen-arc-theme
 WIP Arc Theme For Zen. A lot of breaks :sweat:
+Roadmap Here: https://github.com/users/novafurry/projects/5/views/1?layout=board
+**Latest Zen Version Tested:** 1.0.1-t.19 Twilight
 # Prereqs:
 - @MrOtherGuy's UserChrome.JS loader, FX-Autoconfig (hereon refered to as FXAC) [[link]](https://github.com/MrOtherGuy/fx-autoconfig)
 - Zen Browser
